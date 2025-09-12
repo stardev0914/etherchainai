@@ -29,27 +29,11 @@
                       className:
                         "text-[15px] lg:text-[19px] sm:text-[17px] dark:text-white/90 text-gray-900 mb-8 leading-relaxed",
                       children:
-                        "Join Etherchain AI’s presale and lead the next wave of innovation. Gain privileged access to discounted tokens and transformative technologies like PoI Consensus and the AIVM. Be part of a visionary community shaping intelligent decentralization. The future of AI-powered blockchain is here—step confidently into the Etherchain ecosystem and claim your place today.",
+                        "Join Etherchain AI and lead the next wave of innovation. Gain privileged access to discounted tokens and transformative technologies like PoI Consensus and the AIVM. Be part of a visionary community shaping intelligent decentralization. The future of AI-powered blockchain is here—step confidently into the Etherchain ecosystem and claim your place today.",
                     }),
                     (0, t.jsxs)("div", {
                       className:
                         "flex flex-col sm:flex-row gap-4 justify-center lg:justify-start",
-                      children: [
-                        (0, t.jsx)(l.default, {
-                          variant: 1,
-                          children: (0, t.jsx)(i.default, {
-                            href: "#",
-                            children: "Join Presale Now",
-                          }),
-                        }),
-                        (0, t.jsx)(l.default, {
-                          variant: 2,
-                          children: (0, t.jsx)(i.default, {
-                            href: "/blogs",
-                            children: "Learn More",
-                          }),
-                        }),
-                      ],
                     }),
                   ],
                 }),

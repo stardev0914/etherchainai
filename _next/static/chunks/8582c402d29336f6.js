@@ -127,7 +127,6 @@
               className: "flex flex-row justify-center space-x-1 mb-5 w-full",
               children: [
                 { id: "General", label: "General" },
-                { id: "Presale", label: "Presale" },
                 { id: "Dashboard", label: "Dashboard" },
                 { id: "Other", label: "Other" },
               ].map((t) =>
@@ -187,81 +186,9 @@
                     (0, n.jsx)(l, {
                       index: 3,
                       question:
-                        "What are the details of the Etherchain AI presale?",
-                      answer:
-                        "The Etherchain AI presale offers early adopters the opportunity to purchase tokens before the public launch. Participants benefit from discounted prices and exclusive perks, such as governance voting rights and priority access to ecosystem features like the Memecoin Launchpad.",
-                      open: r,
-                      onToggle: d,
-                    }),
-                    (0, n.jsx)(l, {
-                      index: 4,
-                      question:
-                        "How is the Etherchain AI presale structured and what should participants know?",
-                      answer:
-                        "Etherchain AI's Transparent AI Framework embeds auditability and explainability into every layer of AI decision-making. By enforcing verifiable logic and accountable execution, the framework builds trust, empowers developers, and ensures users can confidently engage with AI-driven processes across the ecosystem.",
-                      open: r,
-                      onToggle: d,
-                    }),
-                    (0, n.jsx)(l, {
-                      index: 5,
-                      question:
                         "What is the function of decentralized governance within the Etherchain AI ecosystem?",
                       answer:
                         "Decentralized governance forms the core of Etherchain AI's operational model. ETHAI token holders gain direct influence over protocol evolution by proposing and voting on key initiatives. This community-driven framework ensures alignment with collective values, while AI enhances transparency, efficiency, and responsiveness in governance processes.",
-                      open: r,
-                      onToggle: d,
-                    }),
-                  ],
-                }),
-                (0, n.jsxs)("div", {
-                  className: "".concat("Presale" === s ? "block" : "hidden"),
-                  children: [
-                    (0, n.jsx)(l, {
-                      index: 0,
-                      question: "What is in the minimum investment?",
-                      answer:
-                        "There is no minimum investment. You can invest as little as $10.",
-                      open: r,
-                      onToggle: d,
-                    }),
-                    (0, n.jsx)(l, {
-                      index: 1,
-                      question: "When do I receive my ETHAI tokens?",
-                      answer:
-                        "You will receive your ETHAI tokens instantly into your wallet after each successful purchase — no waiting, no manual claiming required. Stay informed about future updates, mainnet deployment, and community developments by following our official social channels and community groups.",
-                      open: r,
-                      onToggle: d,
-                    }),
-                    (0, n.jsx)(l, {
-                      index: 2,
-                      question: "Which cryptocurrencies do you accept?",
-                      answer:
-                        "During the presale, we accept Ethereum (ETH) and Tether (USDT – ERC-20 standard) as valid payment options. These trusted and widely-used assets ensure a smooth and secure transaction process for all participants.",
-                      open: r,
-                      onToggle: d,
-                    }),
-                    (0, n.jsx)(l, {
-                      index: 3,
-                      question: "When will the presale finish?",
-                      answer:
-                        "The presale will conclude once the funding target is reached, with a soft cap set at $8 million and a hard cap at $10 million. During this period, we aim to sell a total of 25 million ETHAI tokens. This structure ensures a swift and efficient launch while maintaining strong early momentum and strategic capital allocation.",
-                      open: r,
-                      onToggle: d,
-                    }),
-                    (0, n.jsx)(l, {
-                      index: 4,
-                      question: "Where can I sell my ETHAI tokens?",
-                      answer:
-                        "After the presale concludes, ETHAI will be officially listed on Bybit and OKX, two of the leading global cryptocurrency exchanges. Once listed, you'll be able to view and trade your tokens directly on these platforms with full transparency and liquidity.",
-                      open: r,
-                      onToggle: d,
-                    }),
-                    (0, n.jsx)(l, {
-                      index: 5,
-                      question:
-                        "Which exchanges will ETHAI tokens be listed on?",
-                      answer:
-                        "Following the presale, ETHAI will be listed on top-tier centralized exchanges, including Bybit and OKX. These listings will provide global exposure, deep liquidity, and secure trading environments for all token holders.",
                       open: r,
                       onToggle: d,
                     }),

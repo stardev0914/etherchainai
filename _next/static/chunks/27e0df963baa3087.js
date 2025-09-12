@@ -33,7 +33,7 @@
                     (0, s.jsx)("h2", {
                       className:
                         "text-sm font-semibold text-ethai dark:text-ethai mb-2 uppercase tracking-wide",
-                      children: "Presale Token Allocation",
+                      children: "Token Allocation",
                     }),
                     (0, s.jsx)("h3", {
                       className:

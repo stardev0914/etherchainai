@@ -101,7 +101,7 @@
                               ]) +
                               " mb-0 b2 marquee-text mr--20 text-base font-medium py-1",
                             children: [
-                              "Etherchain Ai Presale is Live. Etherchain Ai is a next-generation Blockchain ecosystem powered by Artificial Intelligence.",
+                              "Etherchain Ai is Live. Etherchain Ai is a next-generation Blockchain ecosystem powered by Artificial Intelligence.",
                               (0, r.jsx)("a", {
                                 target: "_blank",
                                 href: "https://t.me/+lRBI5QAnotZiNDA1",
@@ -129,7 +129,7 @@
                               ]) +
                               " mb-0 b2 marquee-text mr--20 text-base font-medium py-1",
                             children: [
-                              "Etherchain Ai Presale is Live. Etherchain Ai is a next-generation Blockchain ecosystem powered by Artificial Intelligence.",
+                              "Etherchain Ai is Live. Etherchain Ai is a next-generation Blockchain ecosystem powered by Artificial Intelligence.",
                               (0, r.jsx)("a", {
                                 target: "_blank",
                                 href: "https://t.me/+lRBI5QAnotZiNDA1",
@@ -157,7 +157,7 @@
                               ]) +
                               " mb-0 b2 marquee-text mr--20 text-base font-medium py-1",
                             children: [
-                              "Etherchain Ai Presale is Live. Etherchain Ai is a next-generation Blockchain ecosystem powered by Artificial Intelligence.",
+                              "Etherchain AI is Live. Etherchain Ai is a next-generation Blockchain ecosystem powered by Artificial Intelligence.",
                               (0, r.jsx)("a", {
                                 target: "_blank",
                                 href: "https://t.me/+lRBI5QAnotZiNDA1",

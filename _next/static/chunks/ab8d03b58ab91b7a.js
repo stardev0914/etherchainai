@@ -849,7 +849,7 @@
                     children: [
                       (0, t.jsx)("iframe", {
                         src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon&theme=light",
-                        style: { width: "100%", height: "890px", border: "none", outline: "none" },
+                        style: { width: "400px", height: "890px", border: "none", outline: "none" },
                         className: "".concat(l.className, " font-[900]"),
                       }),
                     ],
